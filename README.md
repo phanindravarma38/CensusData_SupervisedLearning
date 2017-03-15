@@ -3,7 +3,7 @@
 
 #### For Project Data Analyses and Modeling Part: 
 
-https://github.com/phanindravarma38/supervised_Predictons_Censusdata/blob/master/face_recognition.ipynb
+https://github.com/phanindravarma38/supervised_Predictons_Censusdata/blob/master/finding_donors.ipynb
 
 ### Install
 
