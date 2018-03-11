@@ -5,7 +5,7 @@
 
 https://github.com/phanindravarma38/supervised_Predictons_Censusdata/blob/master/finding_donors.ipynb
 
-### Install
+### How to Install and Required Software Downloads:
 
 This project requires **Python 2.7** and the following Python libraries installed:
 
